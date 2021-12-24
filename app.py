@@ -2,3 +2,5 @@
 
 
 print (naber)
+
+print (hayırdır)
